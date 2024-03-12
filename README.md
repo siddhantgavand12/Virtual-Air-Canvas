@@ -34,7 +34,7 @@ This Python script utilizes OpenCV, Mediapipe, and NumPy to create a simple draw
 
 2. Run the script:
    ```bash
-   python drawing_app.py
+   python air_canvas.py
 
 3. Draw with your hand:
    - Move your hand to draw on the canvas.
