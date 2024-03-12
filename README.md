@@ -7,7 +7,7 @@ This Python script utilizes OpenCV, Mediapipe, and NumPy to create a simple draw
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Setup](#setup)
-- [Live Demo](#live-demo)
+- [Demo](#demo)
 
 
 ## Requirements
@@ -45,3 +45,7 @@ This Python script utilizes OpenCV, Mediapipe, and NumPy to create a simple draw
 
 5. Exit the application:
    - Press 'q'.
+
+
+## Demo
+https://github.com/siddhantgavand12/Virtual-Air-Canvas/assets/122528514/c916f6eb-5d0c-4c9c-9364-8e98409f1c93
