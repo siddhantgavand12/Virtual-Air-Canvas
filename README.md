@@ -37,5 +37,11 @@ This Python script utilizes OpenCV, Mediapipe, and NumPy to create a simple draw
    python drawing_app.py
 
 3. Draw with your hand:
-   Move your hand to draw on the canvas.
-   Switch colors by positioning your hand in color zones.
+   - Move your hand to draw on the canvas.
+   - Switch colors by positioning your hand in color zones.
+
+4. Clear the canvas:
+   - Move your hand to the clear zone.
+
+5. Exit the application:
+   - Press 'q'.
